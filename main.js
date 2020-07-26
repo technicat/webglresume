@@ -438,19 +438,19 @@ function updateGameWorld(deltaTime) {
 	//drawString(400, -50, 0, 20, gameWorldNiceAlpha / 8, "Nice!");
 	drawString(600, -50, 0, 20, gameWorldNiceAlpha / 30, "Fall");
 	drawString(400, -200, 0, 10, gameWorldGoalAlpha / 30, 
-		"Hi my name is Ben! \nIve been coding ever since I was seven years\nold and I have worked with a wide range of\ntechnology mediums through my work and my personal projects.\nIm also a skilled graphic designer\nand Ive been working with Cinema4D ever since I was ten.");
+		"Hi my name is Phil! \nIve been coding since the Apple II days\nand I have worked on projects\nspanning the semiconductor, defense and government R&D, 3D graphics, video games, and mobile development.");
 	drawString(800, -200, 0, 10, gameWorldEducationAlpha / 30, 
-		"Im also a volunteer leader and I try to\nhelp lead at least one volunteer project every week.");
+		"I own and run Technicat LLC\nproviding consulting and software development services..");
 	drawString(1200, -200, 0, 10, gameWorldEducationGoalAlpha / 30, 
-		"EDUCATION\nPeralta Colleges, Berkeley, Oakland, Alameda, Merit, CA\nCompleted 53 semester units with 4.0 GPA. Computer Science");
+		"EDUCATION\nMassachusetts Institute of Technology\nS.B. Computer Science\nJohns Hopkins University\nM.S. Computer Science");
 	drawString(1600, -200, 0, 10, gameWorldCourseWorkAlpha / 30, 
-		"SKILLS\nJava, Csharp, C++, JavaScript, React, Node.js,\nWebGL, OpenGL, MongoDB, HLSL\nGraphic Design and 3D modeling\nMobile App Design\nFull stack web development");
+		"EXPERIENCE:\nTechnicat LLC, Las Vegas, NV 2001 to present.\nSoftware development and consulting on\nvideo games, virtual worlds, and mobile apps.\n\n");
 
 	drawString(2000, -200, 0, 10, gameWorldExperienceAlpha / 30, 
-		"EXPERIENCE:\nCustomer Engagement Team, Avid, Berkeley, CA\nSoftware Engineer\nMarch 2015 to present.\n­C++, Objective C, UI design, Node.JS, React.\n\nHands On Bay Area, CA\nVolunteer Project Leader\nMay 2018 to present.\n\nCustomer Engagement Team, Avid, Berkeley, CA\nIntern Software Engineer\nMay 2013 to March 2015.\n\nCIS Department, Laney College, Oakland, CA\nTeaching Assistant, CIS 25: C++\nJanuary 2013 to May 2014\n\nAdmin and graphic design for various\nBerkeley nonprofits over a 3 year+ commitment\n\nOver 200+ volunteer hours with various other non profits)");
+		"Hyper Entertainment, Burbank, CA 2001\nLead programmer for HyperBowl attraction game.\n\nNeomar, San Francisco, CA 1999-2000\nLead for HTTP proxy component of a WAP gateway.\n\nInterval Logic, Menlo Park, CA 1998-1999\nLead for semiconductor fab planning and scheduling software.\n\nDigital Chameleon, Los Angeles, CA 1997-1998\nCofounder of a computer graphics startup.\n\nNichimen Graphics, Los Angeles, CA 1996-1998\nLead for OpenGL and Windows ports of NWorld.\n\nBBN Technologies, Boston, MA 1993-1995\nData analysis software.\n\nSAIC 1992-1993, Laurel, MD\nDistributed interactive simulation.\n\nSpace Telescope Science Institute 1990-1992, Laurel, MD\nProposal preparation software for the Hubble Space Telescope.");
 
 	drawString(2100, -550, 0, 10, gameWorldExperienceAlpha / 30, 
-		"As personal projects, I have\nbuilt three large video games\nfor XBOX and Windows,\nmultiple large web projects,\nand an online multiplayer mobile\ngame for iOS, Android, and PC.");
+		"Also wrote Learn Unity 4 for iOS Game Development, published by Apress.");
 	
 	drawString(2400, -600, 0, 10, gameWorldBoringAlpha / 30, 
 		"Now the boring stuff out of the way\n Time for a boss fight");

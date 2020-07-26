@@ -19,7 +19,7 @@ function updateStartScreen(deltaTime) {
 	else
 		drawString(-150, 200, -1000, 100, startScreenAlpha / 5, "Press\nSpace");
 
-	drawString(-300, -200, 0, 50, startScreenAlpha / 5, "Bens WebGL Resume");
+	drawString(-300, -200, 0, 50, startScreenAlpha / 5, "Phils WebGL Resume");
 	
 	cameraX += (100 - cameraX) * 0.001 * deltaTime;
 	cameraY += (100 - cameraY) * 0.001 * deltaTime;
